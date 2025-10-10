@@ -1,0 +1,11 @@
+---
+layout: project
+title: HW5
+description: design a frame/mechanism to lift the maximum possible weight to the highest possible height 
+technologies: [NA]
+image: /assets/images/hw5.jpg
+---
+
+
+Given a 2D design space of 150cm long and 50cm tall, a rigid bar of a fixed length, 3 pin supports and a linear
+actuator, we were tasked to design a frame/mechanism to lift the maximum possible weight to the highest possible height.
