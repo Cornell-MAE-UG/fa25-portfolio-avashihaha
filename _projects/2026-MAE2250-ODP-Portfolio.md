@@ -2,7 +2,7 @@
 layout: project
 title: MAE2250 Functional Prototype
 description: Team GrapeSoup
-technologies:
+technologies: 
 image:
 ---
 
@@ -13,16 +13,14 @@ image:
 <a id="client-pitch"></a>
 ## Client Pitch
 
-Brief summary of the client pitch here.
+To tackle SLF infestation of grape vinyards, we propose a density test system installed at the vineyards receiving area to sift our SLF/debris from grapes/juices. 
 
 <iframe
-  src="{{ '/assets/images/O3_GrapeSoup.pdf' | relative_url }}"
+  src="{{ '/assets/images/O3_ClientPitch.pdf' | relative_url }}"
   width="100%"
   height="900"
   style="border:0;">
 </iframe>
-
-<p><a href="{{ '/assets/images/O3_GrapeSoup.pdf' | relative_url }}">View Client Pitch PDF</a></p>
 
 <a id="functional-prototype"></a>
 ## Functional Prototype
@@ -37,10 +35,8 @@ The key tests we conducted validated the prototype’s motion, interference, fas
 Overall, the tests were successful across the most critical criteria, including smooth rotation, effective surface skimming, and appropriate scaling. However, we observed some unintended motion beyond the primary rotation, which will require retolerancing and a redesign of the support structures in the next iteration.
 
 <iframe
-  src="{{ '/assets/images/functional_prototype.pdf' | relative_url }}"
+  src="{{ '/assets/images/O5_FunctionalPrototype.pdf' | relative_url }}"
   width="100%"
   height="900"
   style="border:0;">
 </iframe>
-
-<p><a href="{{ '/assets/images/functional_prototype.pdf' | relative_url }}">View Functional Prototype PDF</a></p>
