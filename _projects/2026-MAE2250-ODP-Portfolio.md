@@ -1,6 +1,6 @@
 ---
 layout: project
-title: MAE2250 Functional Prototype
+title: MAE2250 Prototype Milestones
 description: Team GrapeSoup
 technologies: 
 image:
