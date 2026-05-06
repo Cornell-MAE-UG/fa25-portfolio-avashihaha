@@ -57,7 +57,7 @@ Overall, the tests were successful across the most critical criteria, including 
 <h2 id="client-report">Client Report</h2>
 
 <p>
-This client report summarizes the final design, testing results, design rationale, and recommendations for implementation.
+This client report contextualizes the SLF contamination problem in vineyard operations, summarizes our finding that a density-based separation system can help remove SLF/debris before processing, and recommends a receiving-area implementation with continued refinement of the paddlewheel, support structure, and testing protocol for future validation.
 </p>
 
 <iframe
